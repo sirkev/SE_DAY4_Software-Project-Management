@@ -1,0 +1,73 @@
+services:
+  wash_hub_db:
+    image: postgres:15-alpine
+    container_name: wash_hub_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: wash_hub_user
+      POSTGRES_PASSWORD: wash_hub_password
+      POSTGRES_DB: wash_hub_db
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - wash_hub_network
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U postgres" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  wash_hub_backend:
+    build:
+      context: ./wash_hub_backend
+      dockerfile: Dockerfile
+    container_name: wash_hub_backend
+    restart: always
+    environment:
+      DATABASE_URL: postgresql://${POSTGRES_USER:-postgres}:${POSTGRES_PASSWORD:-postgres}@wash_hub_db:5432/${POSTGRES_DB:-wash_hub}
+    depends_on:
+      wash_hub_db:
+        condition: service_healthy
+    networks:
+      - wash_hub_network
+
+  wash_hub_app:
+    build:
+      context: ./wash_hub_app
+      dockerfile: Dockerfile
+    container_name: wash_hub_app
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - NEXT_PUBLIC_API_URL=http://localhost/api
+    networks:
+      - wash_hub_network
+    depends_on:
+      - wash_hub_backend
+
+  wash_hub_caddy:
+    image: caddy:2-alpine
+    container_name: wash_hub_caddy
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./wash_hub_caddy/Caddyfile:/etc/caddy/Caddyfile
+      - caddy_data:/data
+      - caddy_config:/config
+    networks:
+      - wash_hub_network
+    depends_on:
+      - wash_hub_app
+      - wash_hub_backend
+
+volumes:
+  postgres_data:
+  caddy_data:
+  caddy_config:
+
+
+networks:
+  wash_hub_network:
+    driver: bridge

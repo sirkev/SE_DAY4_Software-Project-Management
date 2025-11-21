@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b872077-e44b-4e17-95df-08cfd0e678d0" name="Changes" comment="web support" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/home" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1757508317" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2zoFujh3a1wgzS9AWJT0jfpwb7w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Flutter.main.dart.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kev/StudioProjects/laundry/android/app/src/main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;memory.settings&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/android/app/src/main" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/android/app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/features/provider/screens/tabs" />
+      <recent name="$PROJECT_DIR$/lib/features/home/screens" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="laundry" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="laundry" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="laundry" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="laundry" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ccruntests" factoryName="Run Study Tests">
+      <module name="laundry" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <option name="studyTest" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="laundry" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="laundry" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b872077-e44b-4e17-95df-08cfd0e678d0" name="Changes" comment="" />
+      <created>1752389746722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752389746722</updated>
+    </task>
+    <task id="LOCAL-00001" summary="feat: Integrate Firestore and build Home Screen UI&#10;&#10;This commit introduces Cloud Firestore integration and implements the UI for the Home Screen.&#10;&#10;Key changes:&#10;&#10;- **Firestore Integration:**&#10;    - Added `cloud_firestore` dependency.&#10;    - Updated `android/app/build.gradle.kts` to include Firebase Firestore and Multidex dependencies, and set `minSdk` to 23.&#10;    - Updated `google-services.json` with Firestore configurations.&#10;    - In `SignupScreen`:&#10;        - User data (name, email, phone, gender, role, createdAt) is now saved to a 'users' collection in Firestore upon successful signup.&#10;- **Home Screen UI:**&#10;    - Created `HomeScreen` widget with a `BottomNavigationBar` for Home, Bookmarks, Chat, and Profile tabs.&#10;    - Implemented the `HomeTab` which includes:&#10;        - Header with location and notification icon.&#10;        - Search bar.&#10;        - Special offer banner.&#10;        - &quot;Services&quot; section with icons (Washing, Iron, Dry Clean, Bed Sheet).&#10;        - &quot;Popular Service Provider&quot; section.&#10;    - Used `StreamBuilder` in `HomeTab` to display a list of service providers fetched live from the `service_providers` collection in Firestore.&#10;    - Service provider cards display image, name, address, rating, and review count.&#10;    - Added placeholder images and loading/error states for provider images and data fetching.&#10;- **Authentication Flow:**&#10;    - Created `AuthWrapper` widget to manage the navigation flow based on Firebase authentication state (directs to `LoginScreen` or `HomeScreen`).&#10;    - Updated `main.dart` to use `AuthWrapper` as the initial screen.&#10;- **Models:**&#10;    - Created `ServiceProvider` model class with a factory constructor `fromFirestore` to parse Firestore document data.&#10;- **Assets:**&#10;    - Added `assets/` folder to `pubspec.yaml`.&#10;    - Included `assets/google_logo.png` (though not explicitly used in this commit's UI).&#10;- **Android Configuration:**&#10;    - Updated `ndkVersion` in `android/app/build.gradle.kts`.&#10;    - Enabled `multiDexEnabled = true`.&#10;    - Added Firebase BoM, Firestore, Auth, and Credentials dependencies.">
+      <option name="closed" value="true" />
+      <created>1752909386472</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752909386473</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: Implement Service Provider Details Screen and Navigation&#10;&#10;This commit introduces the `ProviderDetailsScreen` to display detailed information about a selected service provider. It also updates the `HomeScreen` to navigate to this new screen when a provider card is tapped.&#10;&#10;Key changes:&#10;&#10;- **New `ProviderDetailsScreen`:**&#10;    - Displays provider's image, name, address, and rating.&#10;    - Includes a placeholder &quot;About&quot; section and a &quot;Gallery&quot; section with placeholder images.&#10;    - Features a &quot;Book Service Now&quot; button (navigation not yet implemented).&#10;    - Uses a `CustomScrollView` with a `SliverAppBar` for a collapsing header effect.&#10;- **`HomeScreen` Updates:**&#10;    - Refactored `_buildProviderCard` to accept a `ServiceProvider` object.&#10;    - Wrapped the provider card in a `GestureDetector` to handle taps.&#10;    - Implemented navigation to `ProviderDetailsScreen` on tap, passing the selected `ServiceProvider` data.&#10;- **File Structure:**&#10;    - Moved `home_screen.dart` from `lib/features/auth/screens/` to `lib/features/home/screens/`.&#10;    - Updated import paths in `auth_wrapper.dart` to reflect the new location of `HomeScreen`.&#10;- **Model Usage:**&#10;    - The `ServiceProvider.fromFirestore` factory constructor is now used in `HomeScreen` to parse Firestore data into `ServiceProvider` objects.">
+      <option name="closed" value="true" />
+      <created>1752910066233</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752910066233</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: Implement Booking Screen and date/time selection&#10;&#10;This commit introduces the `BookingScreen`, allowing users to select a pick-up date and time for a service and confirm their booking.&#10;&#10;Key changes:&#10;&#10;- **New `BookingScreen`:**&#10;    - Displays UI for selecting a pick-up date using `showDatePicker`.&#10;    - Displays UI for selecting a pick-up time using `showTimePicker`.&#10;    - Saves booking details (userId, providerId, providerName, bookingDateTime, status, createdAt) to the 'bookings' collection in Firestore upon confirmation.&#10;    - Includes loading state and success/error messages for the booking process.&#10;    - Navigates back to the home screen after a successful booking.&#10;- **`ProviderDetailsScreen` Update:**&#10;    - The &quot;Book Service Now&quot; button now navigates to the newly created `BookingScreen`, passing the selected `ServiceProvider` data.&#10;- **Dependency:**&#10;    - Added `intl` package for date and time formatting.&#10;- **Minor UI Update:**&#10;    - Changed the hardcoded location in `HomeScreen` from &quot;New York, USA&quot; to &quot;Kalimoni,Juja&quot;.">
+      <option name="closed" value="true" />
+      <created>1752911241610</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752911241610</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: Implement My Bookings screen with status tabs and cancellation&#10;&#10;This commit introduces the &quot;My Bookings&quot; screen, accessible via the bottom navigation bar. It displays a user's bookings categorized into 'Active', 'Completed', and 'Cancelled' tabs. Users can now also cancel 'Pending' bookings.&#10;&#10;Key changes:&#10;&#10;- **New `MyBookingsScreen`:**&#10;    - Uses a `DefaultTabController` and `TabBar` for 'Active', 'Completed', and 'Cancelled' booking lists.&#10;    - Fetches bookings from Firestore based on the current user's ID and the selected status tab.&#10;    - Displays a `BookingCard` for each booking.&#10;- **`BookingList` Widget:**&#10;    - A `StreamBuilder` widget that fetches and displays bookings for a given status.&#10;    - Handles loading, error, and empty states.&#10;- **`BookingCard` Widget:**&#10;    - Made `StatefulWidget` to manage cancellation state.&#10;    - Displays booking details: Order ID, date, provider name, and status.&#10;    - Status text color changes based on the booking status (Pending: orange, Completed: green, Cancelled: red).&#10;    - Includes a &quot;Cancel&quot; button for 'Pending' bookings:&#10;        - Shows a confirmation dialog before cancelling.&#10;        - Updates the booking status to 'Cancelled' in Firestore.&#10;        - Displays loading state and success/error snackbars.&#10;    - Includes a placeholder &quot;Track Order&quot; button.&#10;- **New `Booking` Model:**&#10;    - Created `booking.dart` with a `Booking` class to represent booking data.&#10;    - Includes a `fromFirestore` factory constructor to parse Firestore document data.&#10;- **`HomeScreen` Update:**&#10;    - Replaced the placeholder &quot;Bookmarks Page&quot; with the new `MyBookingsScreen` in the bottom navigation bar.&#10;    - Changed the &quot;Bookmark&quot; label to &quot;Bookings&quot;.">
+      <option name="closed" value="true" />
+      <created>1752914983801</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752914983801</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: Implement Profile Screen and Admin Panel access&#10;&#10;This commit introduces a Profile Screen, allows users to edit their profile, and adds a hidden way for admin users to access an &quot;Add Service Provider&quot; screen.&#10;&#10;Key changes:&#10;&#10;- **New `ProfileScreen`:**&#10;    - Displays user's name, email, and a profile icon.&#10;    - Fetches user data from Firestore using `UserModel`.&#10;    - Provides menu options: &quot;Your Profile&quot;, &quot;Manage Address&quot;, &quot;Payment Methods&quot;, &quot;My Wallet&quot;, &quot;Settings&quot;, and &quot;Logout&quot;.&#10;    - &quot;Your Profile&quot; navigates to `EditProfileScreen`.&#10;    - &quot;Logout&quot; signs out the current Firebase user.&#10;- **New `EditProfileScreen`:**&#10;    - Allows users to update their full name and phone number.&#10;    - Email is displayed but is read-only.&#10;    - Saves changes to the 'users' collection in Firestore.&#10;- **New `UserModel`:**&#10;    - Model class to represent user data fetched from Firestore.&#10;    - Includes `fromFirestore` factory constructor.&#10;- **New `AddProviderScreen` (Admin):**&#10;    - A form for adding new service providers (name, address, image URL, rating, review count) to Firestore.&#10;    - This screen is intended for admin use.&#10;- **Admin Panel Access (Easter Egg):**&#10;    - Implemented a triple-tap gesture on the &quot;My Bookings&quot; AppBar title in `MyBookingsScreen`.&#10;    - If the logged-in user's UID matches a hardcoded admin UID, it navigates to `AddProviderScreen`.&#10;    - Includes logging for tap counts and access attempts.&#10;- **`HomeScreen` Refactor:**&#10;    - Extracted the `HomeTab` widget into its own file (`home_tab.dart`).&#10;    - The `HomeTab` UI (header, search, special offer, services, popular providers) remains the same.&#10;    - Updated `HomeScreen`'s bottom navigation to use `ProfileScreen` for the profile tab.&#10;    - Changed the &quot;Bookmarks&quot; tab icon and label to &quot;Bookings&quot; and `Icons.receipt_long`.&#10;- **Minor UI Update:**&#10;    - Updated location text in `HomeTab` to &quot;Kalimoni, Juja&quot;.&#10;- **Logging:**&#10;    - Added `dart:developer` logging in `MyBookingsScreen` (for easter egg), `AddProviderScreen`, and `EditProfileScreen` to track actions and errors.">
+      <option name="closed" value="true" />
+      <created>1753004729465</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1753004729466</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: Implement Onboarding and Splash Screens&#10;&#10;This commit introduces a new onboarding experience for first-time users and a splash screen that appears when the app launches.&#10;&#10;Key changes:&#10;&#10;- **New `SplashScreen`:**&#10;    - Displays a logo and app name for 3 seconds.&#10;    - Uses `shared_preferences` to check if it's the user's first time opening the app.&#10;    - If it's the first time, navigates to `OnboardingScreen`.&#10;    - Otherwise, navigates to `AuthWrapper`.&#10;- **New `OnboardingScreen`:**&#10;    - Displays a series of onboarding pages with images, titles, and descriptions.&#10;    - Uses a `PageView` to swipe through onboarding content.&#10;    - Includes page indicators (dots) and a &quot;Skip&quot; button.&#10;    - The final page's &quot;Next&quot; button or the &quot;Skip&quot; button marks onboarding as complete (sets `isFirstTime` to `false` in `shared_preferences`) and navigates to `AuthWrapper`.&#10;    - Images used in onboarding are precached for smoother transitions.&#10;- **New `OnboardingPageContent` Widget:**&#10;    - A reusable widget to display the content (image, title, description) for each onboarding page.&#10;- **`main.dart` Update:**&#10;    - The initial route is now `SplashScreen` instead of `AuthWrapper`.&#10;    - App title changed to &quot;Laundry&quot;.&#10;- **Dependencies:**&#10;    - Added `shared_preferences: ^2.5.3` for storing the onboarding completion status.&#10;- **Assets:**&#10;    - Added new images for the onboarding screens:&#10;        - `assets/onboarding_1.jpg`&#10;        - `assets/onboarding_2.png`&#10;        - `assets/onboarding_3.png`&#10;        - `assets/onboarding_4.png`&#10;    - Added `assets/facebook_logo.png` (not used in this commit's UI, but added to assets).">
+      <option name="closed" value="true" />
+      <created>1753012319201</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753012319201</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: Implement Provider Dashboard and Role-Based Navigation&#10;&#10;This commit introduces a dashboard for service providers to manage their bookings and implements role-based navigation upon login.&#10;&#10;Key changes:&#10;&#10;- **Provider Dashboard (`ProviderDashboardScreen`):**&#10;    - New screen for service providers.&#10;    - Displays a `TabBar` with &quot;New&quot;, &quot;Active&quot;, and &quot;History&quot; tabs for bookings.&#10;    - Fetches and displays bookings from Firestore based on the provider's user ID (`providerOwnerUid`) and booking status.&#10;    - `ProviderBookingList` widget created to display bookings for given statuses.&#10;    - `ProviderBookingCard` allows providers to &quot;Accept&quot; or &quot;Decline&quot; new bookings, updating the status in Firestore.&#10;    - Includes a logout button.&#10;&#10;- **Role-Based Navigation (`AuthWrapper`):**&#10;    - `AuthWrapper` now checks the user's role from their Firestore document after authentication.&#10;    - Redirects to `ProviderDashboardScreen` if the role is 'provider'.&#10;    - Redirects to `HomeScreen` if the role is 'customer' or not found (defaults to customer).&#10;    - Shows loading indicators during authentication and role fetching.&#10;&#10;- **Signup Screen (`SignupScreen`):**&#10;    - Updated the role selection UI to use `ToggleButtons` for &quot;Customer&quot; and &quot;Provider&quot;.&#10;    - Saves the selected role to the user's document in Firestore during signup.&#10;&#10;- **Booking Data (`BookingScreen`):**&#10;    - When a booking is created, the `providerOwnerUid` (the UID of the user who owns the service provider) is now saved with the booking details. This is used by the Provider Dashboard to filter bookings.&#10;&#10;- **Service Provider Model (`ServiceProvider`):**&#10;    - Added an optional `uid` field to store the owner's user ID.&#10;    - Updated `fromFirestore` to read this `uid`.&#10;&#10;- **Logging:**&#10;    - Added `dart:developer` logging in `ProviderDashboardScreen` for booking fetch and update operations.">
+      <option name="closed" value="true" />
+      <created>1753014747546</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1753014747546</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: Implement Provider Main Screen with bottom navigation&#10;&#10;This commit introduces a main screen for service providers, featuring a bottom navigation bar to switch between Bookings, My Business, Earnings, and Profile sections.&#10;&#10;Key changes:&#10;&#10;- **New `ProviderMainScreen`:**&#10;    - Added a `BottomNavigationBar` with icons and labels for:&#10;        - Bookings (using the existing `ProviderBookingsTab`, formerly `ProviderDashboardScreen`)&#10;        - My Business (placeholder `MyBusinessScreen`)&#10;        - Earnings (placeholder `EarningsScreen`)&#10;        - Profile (reusing `ProfileScreen`)&#10;    - Uses `IndexedStack` to preserve the state of each tab.&#10;    - Styled the navigation bar for a professional look (fixed type, selected/unselected colors, elevation).&#10;- **New Placeholder Screens:**&#10;    - `EarningsScreen.dart`: Basic screen with &quot;My Earnings - Coming Soon!&quot;.&#10;    - `MyBusinessScreen.dart`: Basic screen with &quot;My Business - Coming Soon!&quot;.&#10;- **Renamed `ProviderDashboardScreen`:**&#10;    - Renamed to `ProviderBookingsTab` and moved to `lib/features/provider/screens/tabs/`.&#10;    - This widget now serves as the content for the &quot;Bookings&quot; tab in `ProviderMainScreen`.&#10;    - Removed the logout button from its `AppBar` as logout functionality is typically in the Profile section.&#10;- **Updated `AuthWrapper`:**&#10;    - Now redirects users with the 'provider' role to `ProviderMainScreen` instead of the old `ProviderDashboardScreen`.&#10;- **Styling:**&#10;    - Ensured consistent use of `AppTheme` for colors in the `BottomNavigationBar`.">
+      <option name="closed" value="true" />
+      <created>1753016399056</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1753016399056</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: Implement &quot;My Business&quot; screen with claim functionality&#10;&#10;This commit introduces the &quot;My Business&quot; screen for service providers, allowing them to claim their business listing.&#10;&#10;Key changes:&#10;&#10;- **`MyBusinessScreen` (Provider Tab):**&#10;    - If the logged-in provider has already claimed a business, it displays `ClaimedBusinessView` with their business details.&#10;    - If no business is claimed, it shows `UnclaimedBusinessView`.&#10;- **`UnclaimedBusinessView`:**&#10;    - Displays a list of unclaimed service providers fetched from Firestore (`isClaimed == false`).&#10;    - Includes a search bar to filter businesses by name.&#10;    - Each unclaimed business is presented in an `UnclaimedBusinessCard`.&#10;- **`UnclaimedBusinessCard`:**&#10;    - Displays business details (image, name, address, rating).&#10;    - Features a &quot;Claim This Business&quot; button.&#10;    - On claim:&#10;        - Shows a confirmation dialog.&#10;        - Updates the `service_providers` document in Firestore by setting `isClaimed = true` and associating the current user's `uid`.&#10;        - Displays success/error messages.&#10;- **`ClaimedBusinessView`:**&#10;    - Shows the details of the claimed business.&#10;    - Includes &quot;Edit Business Profile&quot; (placeholder) and &quot;View Public Page&quot; buttons.&#10;    - &quot;View Public Page&quot; navigates to the `ProviderDetailsScreen` for that provider.&#10;- **`AddProviderScreen` (Admin):**&#10;    - When adding a new provider, `isClaimed` is now set to `false` and `uid` to `null` by default.&#10;- **`BookingScreen`:**&#10;    - Now fetches and saves the `customerName` (full name of the user making the booking) in the `bookings` collection.&#10;    - Removed redundant comments.&#10;- **`Booking` Model:**&#10;    - Added `customerName` field.&#10;    - Updated `fromFirestore` factory to include `customerName`.">
+      <option name="closed" value="true" />
+      <created>1753018740103</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1753018740103</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: Implement Provider Order Details Screen with status workflow&#10;&#10;This commit introduces the `OrderDetailsScreen` for service providers, allowing them to view order details and manage the order status through a predefined workflow. It also includes new app icon assets for Android and iOS.&#10;&#10;Key changes:&#10;&#10;- **New `OrderDetailsScreen` (StatefulWidget):**&#10;    - Displays booking details: customer name, booking date/time, and a short order ID.&#10;    - Implements a `Stepper` widget to visually represent the order status workflow: 'Accepted', 'Processing', 'Ready for Delivery', 'Completed'.&#10;    - Allows providers to advance the order status by clicking a button.&#10;    - Updates the booking status in Firestore.&#10;    - Handles loading states and displays success/error snackbars for status updates.&#10;    - The action button text dynamically updates based on the next status in the workflow (e.g., &quot;Mark as 'Processing'&quot;).&#10;    - The button is hidden if the order status is 'Completed'.&#10;- **Status Workflow:**&#10;    - Defined a `_statusWorkflow` list to manage the sequence of order statuses.&#10;    - Implemented `_updateStatus` function to progress the order to the next status in the workflow and update Firestore.&#10;    - Added `_getNextActionText` helper to determine the appropriate text for the action button.&#10;- **App Icons:**&#10;    - Added new Android launcher icons (`ic_launcher.xml`, `ic_launcher_background.png`, `ic_launcher_foreground.png`, `ic_launcher_monochrome.png` in various dpi folders).&#10;    - Added new iOS app icons (`Contents.json` and various .png files) and a Play Store icon (`play_store_512.png`).">
+      <option name="closed" value="true" />
+      <created>1753021650060</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1753021650060</updated>
+    </task>
+    <task id="LOCAL-00011" summary="web support">
+      <option name="closed" value="true" />
+      <created>1756264739008</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1756264739008</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: Integrate Firestore and build Home Screen UI&#10;&#10;This commit introduces Cloud Firestore integration and implements the UI for the Home Screen.&#10;&#10;Key changes:&#10;&#10;- **Firestore Integration:**&#10;    - Added `cloud_firestore` dependency.&#10;    - Updated `android/app/build.gradle.kts` to include Firebase Firestore and Multidex dependencies, and set `minSdk` to 23.&#10;    - Updated `google-services.json` with Firestore configurations.&#10;    - In `SignupScreen`:&#10;        - User data (name, email, phone, gender, role, createdAt) is now saved to a 'users' collection in Firestore upon successful signup.&#10;- **Home Screen UI:**&#10;    - Created `HomeScreen` widget with a `BottomNavigationBar` for Home, Bookmarks, Chat, and Profile tabs.&#10;    - Implemented the `HomeTab` which includes:&#10;        - Header with location and notification icon.&#10;        - Search bar.&#10;        - Special offer banner.&#10;        - &quot;Services&quot; section with icons (Washing, Iron, Dry Clean, Bed Sheet).&#10;        - &quot;Popular Service Provider&quot; section.&#10;    - Used `StreamBuilder` in `HomeTab` to display a list of service providers fetched live from the `service_providers` collection in Firestore.&#10;    - Service provider cards display image, name, address, rating, and review count.&#10;    - Added placeholder images and loading/error states for provider images and data fetching.&#10;- **Authentication Flow:**&#10;    - Created `AuthWrapper` widget to manage the navigation flow based on Firebase authentication state (directs to `LoginScreen` or `HomeScreen`).&#10;    - Updated `main.dart` to use `AuthWrapper` as the initial screen.&#10;- **Models:**&#10;    - Created `ServiceProvider` model class with a factory constructor `fromFirestore` to parse Firestore document data.&#10;- **Assets:**&#10;    - Added `assets/` folder to `pubspec.yaml`.&#10;    - Included `assets/google_logo.png` (though not explicitly used in this commit's UI).&#10;- **Android Configuration:**&#10;    - Updated `ndkVersion` in `android/app/build.gradle.kts`.&#10;    - Enabled `multiDexEnabled = true`.&#10;    - Added Firebase BoM, Firestore, Auth, and Credentials dependencies." />
+    <MESSAGE value="feat: Implement Service Provider Details Screen and Navigation&#10;&#10;This commit introduces the `ProviderDetailsScreen` to display detailed information about a selected service provider. It also updates the `HomeScreen` to navigate to this new screen when a provider card is tapped.&#10;&#10;Key changes:&#10;&#10;- **New `ProviderDetailsScreen`:**&#10;    - Displays provider's image, name, address, and rating.&#10;    - Includes a placeholder &quot;About&quot; section and a &quot;Gallery&quot; section with placeholder images.&#10;    - Features a &quot;Book Service Now&quot; button (navigation not yet implemented).&#10;    - Uses a `CustomScrollView` with a `SliverAppBar` for a collapsing header effect.&#10;- **`HomeScreen` Updates:**&#10;    - Refactored `_buildProviderCard` to accept a `ServiceProvider` object.&#10;    - Wrapped the provider card in a `GestureDetector` to handle taps.&#10;    - Implemented navigation to `ProviderDetailsScreen` on tap, passing the selected `ServiceProvider` data.&#10;- **File Structure:**&#10;    - Moved `home_screen.dart` from `lib/features/auth/screens/` to `lib/features/home/screens/`.&#10;    - Updated import paths in `auth_wrapper.dart` to reflect the new location of `HomeScreen`.&#10;- **Model Usage:**&#10;    - The `ServiceProvider.fromFirestore` factory constructor is now used in `HomeScreen` to parse Firestore data into `ServiceProvider` objects." />
+    <MESSAGE value="feat: Implement Booking Screen and date/time selection&#10;&#10;This commit introduces the `BookingScreen`, allowing users to select a pick-up date and time for a service and confirm their booking.&#10;&#10;Key changes:&#10;&#10;- **New `BookingScreen`:**&#10;    - Displays UI for selecting a pick-up date using `showDatePicker`.&#10;    - Displays UI for selecting a pick-up time using `showTimePicker`.&#10;    - Saves booking details (userId, providerId, providerName, bookingDateTime, status, createdAt) to the 'bookings' collection in Firestore upon confirmation.&#10;    - Includes loading state and success/error messages for the booking process.&#10;    - Navigates back to the home screen after a successful booking.&#10;- **`ProviderDetailsScreen` Update:**&#10;    - The &quot;Book Service Now&quot; button now navigates to the newly created `BookingScreen`, passing the selected `ServiceProvider` data.&#10;- **Dependency:**&#10;    - Added `intl` package for date and time formatting.&#10;- **Minor UI Update:**&#10;    - Changed the hardcoded location in `HomeScreen` from &quot;New York, USA&quot; to &quot;Kalimoni,Juja&quot;." />
+    <MESSAGE value="feat: Implement My Bookings screen with status tabs and cancellation&#10;&#10;This commit introduces the &quot;My Bookings&quot; screen, accessible via the bottom navigation bar. It displays a user's bookings categorized into 'Active', 'Completed', and 'Cancelled' tabs. Users can now also cancel 'Pending' bookings.&#10;&#10;Key changes:&#10;&#10;- **New `MyBookingsScreen`:**&#10;    - Uses a `DefaultTabController` and `TabBar` for 'Active', 'Completed', and 'Cancelled' booking lists.&#10;    - Fetches bookings from Firestore based on the current user's ID and the selected status tab.&#10;    - Displays a `BookingCard` for each booking.&#10;- **`BookingList` Widget:**&#10;    - A `StreamBuilder` widget that fetches and displays bookings for a given status.&#10;    - Handles loading, error, and empty states.&#10;- **`BookingCard` Widget:**&#10;    - Made `StatefulWidget` to manage cancellation state.&#10;    - Displays booking details: Order ID, date, provider name, and status.&#10;    - Status text color changes based on the booking status (Pending: orange, Completed: green, Cancelled: red).&#10;    - Includes a &quot;Cancel&quot; button for 'Pending' bookings:&#10;        - Shows a confirmation dialog before cancelling.&#10;        - Updates the booking status to 'Cancelled' in Firestore.&#10;        - Displays loading state and success/error snackbars.&#10;    - Includes a placeholder &quot;Track Order&quot; button.&#10;- **New `Booking` Model:**&#10;    - Created `booking.dart` with a `Booking` class to represent booking data.&#10;    - Includes a `fromFirestore` factory constructor to parse Firestore document data.&#10;- **`HomeScreen` Update:**&#10;    - Replaced the placeholder &quot;Bookmarks Page&quot; with the new `MyBookingsScreen` in the bottom navigation bar.&#10;    - Changed the &quot;Bookmark&quot; label to &quot;Bookings&quot;." />
+    <MESSAGE value="feat: Implement Profile Screen and Admin Panel access&#10;&#10;This commit introduces a Profile Screen, allows users to edit their profile, and adds a hidden way for admin users to access an &quot;Add Service Provider&quot; screen.&#10;&#10;Key changes:&#10;&#10;- **New `ProfileScreen`:**&#10;    - Displays user's name, email, and a profile icon.&#10;    - Fetches user data from Firestore using `UserModel`.&#10;    - Provides menu options: &quot;Your Profile&quot;, &quot;Manage Address&quot;, &quot;Payment Methods&quot;, &quot;My Wallet&quot;, &quot;Settings&quot;, and &quot;Logout&quot;.&#10;    - &quot;Your Profile&quot; navigates to `EditProfileScreen`.&#10;    - &quot;Logout&quot; signs out the current Firebase user.&#10;- **New `EditProfileScreen`:**&#10;    - Allows users to update their full name and phone number.&#10;    - Email is displayed but is read-only.&#10;    - Saves changes to the 'users' collection in Firestore.&#10;- **New `UserModel`:**&#10;    - Model class to represent user data fetched from Firestore.&#10;    - Includes `fromFirestore` factory constructor.&#10;- **New `AddProviderScreen` (Admin):**&#10;    - A form for adding new service providers (name, address, image URL, rating, review count) to Firestore.&#10;    - This screen is intended for admin use.&#10;- **Admin Panel Access (Easter Egg):**&#10;    - Implemented a triple-tap gesture on the &quot;My Bookings&quot; AppBar title in `MyBookingsScreen`.&#10;    - If the logged-in user's UID matches a hardcoded admin UID, it navigates to `AddProviderScreen`.&#10;    - Includes logging for tap counts and access attempts.&#10;- **`HomeScreen` Refactor:**&#10;    - Extracted the `HomeTab` widget into its own file (`home_tab.dart`).&#10;    - The `HomeTab` UI (header, search, special offer, services, popular providers) remains the same.&#10;    - Updated `HomeScreen`'s bottom navigation to use `ProfileScreen` for the profile tab.&#10;    - Changed the &quot;Bookmarks&quot; tab icon and label to &quot;Bookings&quot; and `Icons.receipt_long`.&#10;- **Minor UI Update:**&#10;    - Updated location text in `HomeTab` to &quot;Kalimoni, Juja&quot;.&#10;- **Logging:**&#10;    - Added `dart:developer` logging in `MyBookingsScreen` (for easter egg), `AddProviderScreen`, and `EditProfileScreen` to track actions and errors." />
+    <MESSAGE value="feat: Implement Onboarding and Splash Screens&#10;&#10;This commit introduces a new onboarding experience for first-time users and a splash screen that appears when the app launches.&#10;&#10;Key changes:&#10;&#10;- **New `SplashScreen`:**&#10;    - Displays a logo and app name for 3 seconds.&#10;    - Uses `shared_preferences` to check if it's the user's first time opening the app.&#10;    - If it's the first time, navigates to `OnboardingScreen`.&#10;    - Otherwise, navigates to `AuthWrapper`.&#10;- **New `OnboardingScreen`:**&#10;    - Displays a series of onboarding pages with images, titles, and descriptions.&#10;    - Uses a `PageView` to swipe through onboarding content.&#10;    - Includes page indicators (dots) and a &quot;Skip&quot; button.&#10;    - The final page's &quot;Next&quot; button or the &quot;Skip&quot; button marks onboarding as complete (sets `isFirstTime` to `false` in `shared_preferences`) and navigates to `AuthWrapper`.&#10;    - Images used in onboarding are precached for smoother transitions.&#10;- **New `OnboardingPageContent` Widget:**&#10;    - A reusable widget to display the content (image, title, description) for each onboarding page.&#10;- **`main.dart` Update:**&#10;    - The initial route is now `SplashScreen` instead of `AuthWrapper`.&#10;    - App title changed to &quot;Laundry&quot;.&#10;- **Dependencies:**&#10;    - Added `shared_preferences: ^2.5.3` for storing the onboarding completion status.&#10;- **Assets:**&#10;    - Added new images for the onboarding screens:&#10;        - `assets/onboarding_1.jpg`&#10;        - `assets/onboarding_2.png`&#10;        - `assets/onboarding_3.png`&#10;        - `assets/onboarding_4.png`&#10;    - Added `assets/facebook_logo.png` (not used in this commit's UI, but added to assets)." />
+    <MESSAGE value="feat: Implement Provider Dashboard and Role-Based Navigation&#10;&#10;This commit introduces a dashboard for service providers to manage their bookings and implements role-based navigation upon login.&#10;&#10;Key changes:&#10;&#10;- **Provider Dashboard (`ProviderDashboardScreen`):**&#10;    - New screen for service providers.&#10;    - Displays a `TabBar` with &quot;New&quot;, &quot;Active&quot;, and &quot;History&quot; tabs for bookings.&#10;    - Fetches and displays bookings from Firestore based on the provider's user ID (`providerOwnerUid`) and booking status.&#10;    - `ProviderBookingList` widget created to display bookings for given statuses.&#10;    - `ProviderBookingCard` allows providers to &quot;Accept&quot; or &quot;Decline&quot; new bookings, updating the status in Firestore.&#10;    - Includes a logout button.&#10;&#10;- **Role-Based Navigation (`AuthWrapper`):**&#10;    - `AuthWrapper` now checks the user's role from their Firestore document after authentication.&#10;    - Redirects to `ProviderDashboardScreen` if the role is 'provider'.&#10;    - Redirects to `HomeScreen` if the role is 'customer' or not found (defaults to customer).&#10;    - Shows loading indicators during authentication and role fetching.&#10;&#10;- **Signup Screen (`SignupScreen`):**&#10;    - Updated the role selection UI to use `ToggleButtons` for &quot;Customer&quot; and &quot;Provider&quot;.&#10;    - Saves the selected role to the user's document in Firestore during signup.&#10;&#10;- **Booking Data (`BookingScreen`):**&#10;    - When a booking is created, the `providerOwnerUid` (the UID of the user who owns the service provider) is now saved with the booking details. This is used by the Provider Dashboard to filter bookings.&#10;&#10;- **Service Provider Model (`ServiceProvider`):**&#10;    - Added an optional `uid` field to store the owner's user ID.&#10;    - Updated `fromFirestore` to read this `uid`.&#10;&#10;- **Logging:**&#10;    - Added `dart:developer` logging in `ProviderDashboardScreen` for booking fetch and update operations." />
+    <MESSAGE value="feat: Implement Provider Main Screen with bottom navigation&#10;&#10;This commit introduces a main screen for service providers, featuring a bottom navigation bar to switch between Bookings, My Business, Earnings, and Profile sections.&#10;&#10;Key changes:&#10;&#10;- **New `ProviderMainScreen`:**&#10;    - Added a `BottomNavigationBar` with icons and labels for:&#10;        - Bookings (using the existing `ProviderBookingsTab`, formerly `ProviderDashboardScreen`)&#10;        - My Business (placeholder `MyBusinessScreen`)&#10;        - Earnings (placeholder `EarningsScreen`)&#10;        - Profile (reusing `ProfileScreen`)&#10;    - Uses `IndexedStack` to preserve the state of each tab.&#10;    - Styled the navigation bar for a professional look (fixed type, selected/unselected colors, elevation).&#10;- **New Placeholder Screens:**&#10;    - `EarningsScreen.dart`: Basic screen with &quot;My Earnings - Coming Soon!&quot;.&#10;    - `MyBusinessScreen.dart`: Basic screen with &quot;My Business - Coming Soon!&quot;.&#10;- **Renamed `ProviderDashboardScreen`:**&#10;    - Renamed to `ProviderBookingsTab` and moved to `lib/features/provider/screens/tabs/`.&#10;    - This widget now serves as the content for the &quot;Bookings&quot; tab in `ProviderMainScreen`.&#10;    - Removed the logout button from its `AppBar` as logout functionality is typically in the Profile section.&#10;- **Updated `AuthWrapper`:**&#10;    - Now redirects users with the 'provider' role to `ProviderMainScreen` instead of the old `ProviderDashboardScreen`.&#10;- **Styling:**&#10;    - Ensured consistent use of `AppTheme` for colors in the `BottomNavigationBar`." />
+    <MESSAGE value="feat: Implement &quot;My Business&quot; screen with claim functionality&#10;&#10;This commit introduces the &quot;My Business&quot; screen for service providers, allowing them to claim their business listing.&#10;&#10;Key changes:&#10;&#10;- **`MyBusinessScreen` (Provider Tab):**&#10;    - If the logged-in provider has already claimed a business, it displays `ClaimedBusinessView` with their business details.&#10;    - If no business is claimed, it shows `UnclaimedBusinessView`.&#10;- **`UnclaimedBusinessView`:**&#10;    - Displays a list of unclaimed service providers fetched from Firestore (`isClaimed == false`).&#10;    - Includes a search bar to filter businesses by name.&#10;    - Each unclaimed business is presented in an `UnclaimedBusinessCard`.&#10;- **`UnclaimedBusinessCard`:**&#10;    - Displays business details (image, name, address, rating).&#10;    - Features a &quot;Claim This Business&quot; button.&#10;    - On claim:&#10;        - Shows a confirmation dialog.&#10;        - Updates the `service_providers` document in Firestore by setting `isClaimed = true` and associating the current user's `uid`.&#10;        - Displays success/error messages.&#10;- **`ClaimedBusinessView`:**&#10;    - Shows the details of the claimed business.&#10;    - Includes &quot;Edit Business Profile&quot; (placeholder) and &quot;View Public Page&quot; buttons.&#10;    - &quot;View Public Page&quot; navigates to the `ProviderDetailsScreen` for that provider.&#10;- **`AddProviderScreen` (Admin):**&#10;    - When adding a new provider, `isClaimed` is now set to `false` and `uid` to `null` by default.&#10;- **`BookingScreen`:**&#10;    - Now fetches and saves the `customerName` (full name of the user making the booking) in the `bookings` collection.&#10;    - Removed redundant comments.&#10;- **`Booking` Model:**&#10;    - Added `customerName` field.&#10;    - Updated `fromFirestore` factory to include `customerName`." />
+    <MESSAGE value="feat: Implement Provider Order Details Screen with status workflow&#10;&#10;This commit introduces the `OrderDetailsScreen` for service providers, allowing them to view order details and manage the order status through a predefined workflow. It also includes new app icon assets for Android and iOS.&#10;&#10;Key changes:&#10;&#10;- **New `OrderDetailsScreen` (StatefulWidget):**&#10;    - Displays booking details: customer name, booking date/time, and a short order ID.&#10;    - Implements a `Stepper` widget to visually represent the order status workflow: 'Accepted', 'Processing', 'Ready for Delivery', 'Completed'.&#10;    - Allows providers to advance the order status by clicking a button.&#10;    - Updates the booking status in Firestore.&#10;    - Handles loading states and displays success/error snackbars for status updates.&#10;    - The action button text dynamically updates based on the next status in the workflow (e.g., &quot;Mark as 'Processing'&quot;).&#10;    - The button is hidden if the order status is 'Completed'.&#10;- **Status Workflow:**&#10;    - Defined a `_statusWorkflow` list to manage the sequence of order statuses.&#10;    - Implemented `_updateStatus` function to progress the order to the next status in the workflow and update Firestore.&#10;    - Added `_getNextActionText` helper to determine the appropriate text for the action button.&#10;- **App Icons:**&#10;    - Added new Android launcher icons (`ic_launcher.xml`, `ic_launcher_background.png`, `ic_launcher_foreground.png`, `ic_launcher_monochrome.png` in various dpi folders).&#10;    - Added new iOS app icons (`Contents.json` and various .png files) and a Play Store icon (`play_store_512.png`)." />
+    <MESSAGE value="functions" />
+    <MESSAGE value="web support" />
+    <option name="LAST_COMMIT_MESSAGE" value="web support" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/features/home/screens/home_screen.dart</url>
+          <line>58</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

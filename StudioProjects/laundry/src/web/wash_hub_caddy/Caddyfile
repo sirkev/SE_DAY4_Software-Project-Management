@@ -1,0 +1,19 @@
+:80 {
+    # API routes - proxy to FastAPI backend
+    handle /api/* {
+        reverse_proxy wash_hub_backend:8000
+    }
+
+    # All other routes - proxy to Next.js frontend
+    handle {
+        reverse_proxy wash_hub_app:3000
+    }
+
+    # Proxy docs for verification
+    handle /docs {
+        reverse_proxy wash_hub_backend:8000
+    }
+    handle /openapi.json {
+        reverse_proxy wash_hub_backend:8000
+    }
+}
